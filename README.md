@@ -6,7 +6,7 @@ The efficient and clean DOM manipulation technique and the project's workflow ma
 
 # Example Run
 
-<img src="https://github.com/tphuong141607/yesCode-Bugety/blob/master/Budgety.gif" width="400">
+<img src="https://github.com/tphuong141607/yesCode-Bugety/blob/master/Budgety.gif" width="600">
 
 
 
