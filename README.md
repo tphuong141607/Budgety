@@ -1,4 +1,4 @@
-# yesCode-Bugety (created on 8/2019)
+# yesCode-Budgety (created on 8/2019)
 
 During the process of learning "The Complete JavaScript Course 2019: Build Real Projects!", taught by Jonas Schmedtmann, I created the Budgety web app using ES5, basic HTML and ES5. The users can add any income or expense, delete the current records, check the balance, check the percentage of both income and expense to better control their budget spending. 
 
